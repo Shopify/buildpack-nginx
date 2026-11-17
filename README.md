@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # Dokku Buildpack: nginx
 
 This is the official dokku buildpack for static websites, powered by nginx.
